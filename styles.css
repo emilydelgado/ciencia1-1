@@ -1,0 +1,13 @@
+*{
+
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.Form{
+
+    width: 400px;
+    padding: 50px;
+    background-color: rgb(237, 165, 114);
+}

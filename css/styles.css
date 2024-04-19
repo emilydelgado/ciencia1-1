@@ -9,23 +9,24 @@
 
     width: 400px;
     padding: 50px;
-    background-color: rgb(237, 165, 114);
+    background-color: rgb(255, 168, 252);
     margin: auto;
     margin-top: 100px;
     border-radius: 18px;
+
 }
 
 .Titulo {
     font-size: 55px;
-    color: rgba(10, 71, 45, 0.775);
+    color: rgba(249, 124, 253, 0.775);
 }
 
 .Entradas {
     padding: 5px;
     width: 400px;
-    background-color: rgb(179, 113, 32);
+    background-color: rgb(242, 128, 255);
     border-radius: 7px;
-    border: 1px seashell;
+    border: 1px rgb(255, 152, 233);
     margin-bottom: 5px;
 }
 
@@ -35,8 +36,8 @@
     font-size: 15px;
     border-radius: 50px;
     margin: auto;
-    color: rgb(244, 128, 33);
-    border: 1px rgb(0, 0, 0);
-    background-color: rgb(82, 32, 18);
+    color: rgba(153, 194, 251, 0.887);
+    border: 1px rgb(255, 178, 241)239);
+    background-color: rgb(245, 141, 249);
 
 }
